@@ -1,4 +1,4 @@
-# 🤓 Cyril F
+# Cyril F
 
 **`Software Engineer [Backend | DevOps | SystemDesign | System Administration]`**
 
