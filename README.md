@@ -47,11 +47,13 @@ I enjoy solving non-trivial technical problems, especially where trade-offs betw
 ---
 ### 🔍 What I focus on
 
-- Designing backend systems that remain predictable under load
-- Writing concurrency-safe Go code with clear ownership and failure modes
-- Balancing performance, simplicity, and long-term maintainability
-- Building observable systems with metrics-first debugging
-- Avoiding unnecessary complexity unless it clearly pays off
+- Designing backend systems that remain predictable under load  
+- Writing concurrency-safe Go code with clear ownership and failure modes  
+- Balancing performance, simplicity, and long-term maintainability  
+- Building observable systems with metrics-first debugging  
+- Avoiding unnecessary complexity unless it clearly pays off  
+- Writing clean, readable code that is easy to reason about and evolve over time  
+- Building secure-by-default systems through input validation, explicit boundaries, and defensive design
 ---
 ### 🧠 Engineering interests
 
